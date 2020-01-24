@@ -1,0 +1,7 @@
+$blue-gray: #6699cc; 
+$dark-pink: #D98880;
+
+@mixin basic-flex {
+    display: flex; 
+    justify-content: center; 
+}
